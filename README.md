@@ -5,8 +5,10 @@
 
 [_time](https://github.com/barabas007/barabas007-github.io)- Таймер обратного отсчёта на Java Script
 
+[_clock](https://github.com/barabas007/_clock/tree/master/_clock) - Часы на Java Script
+
 
 # REACT. JS
 [![Edit gracious-cdn-v9dzc](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/gracious-cdn-v9dzc?fontsize=14)
 
-[_clock](https://github.com/barabas007/_clock/tree/master/_clock) - Часы на Java Script
+
