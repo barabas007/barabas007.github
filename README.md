@@ -7,7 +7,7 @@
 
 [_clock](https://github.com/barabas007/_clock/tree/master/_clock) - Часы на JavaScript
 
-[_line] (https://github.com/barabas007/_line) - Линия прокрутки страницы на JavaScript
+[_line](https://github.com/barabas007/_line) - Линия прокрутки страницы на JavaScript
 
 
 # REACT. JS
