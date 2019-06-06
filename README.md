@@ -8,6 +8,7 @@
 [_clock](https://github.com/barabas007/_clock/tree/master/_clock) - Часы на JavaScript
 
 [_line](https://github.com/barabas007/_line) - Линия прокрутки страницы на JavaScript
+[_block](https://github.com/barabas007/_block/tree/master) - Анимированное появление формы JavaScript
 
 
 # REACT. JS
