@@ -11,6 +11,8 @@
 
 [_block](https://github.com/barabas007/_block/tree/master) - Анимированное появление формы JavaScript
 
+[_3d_card](https://github.com/barabas007/_3d_card/tree/master) - 3D карточки на JavaScript
+
 
 # REACT. JS
 [![Edit gracious-cdn-v9dzc](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/gracious-cdn-v9dzc?fontsize=14)
