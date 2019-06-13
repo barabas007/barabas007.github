@@ -13,6 +13,8 @@
 
 [_3d_card](https://github.com/barabas007/_3d_card/tree/master) - 3D карточки на JavaScript
 
+[_sound](https://github.com/barabas007/_sound) - Эквалайзер в браузере
+
 
 # REACT. JS
 [![Edit gracious-cdn-v9dzc](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/gracious-cdn-v9dzc?fontsize=14)
