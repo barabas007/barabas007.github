@@ -20,3 +20,9 @@
 [![Edit gracious-cdn-v9dzc](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/gracious-cdn-v9dzc?fontsize=14)
 
 
+
+# ЗАДАЧКИ ДЛЯ ПРОКАЧКИ JAVASCRIPT
+
+[inverted letters](https://github.com/barabas007/inverted-letters)- ПОЛИНДРОМ 
+
+
