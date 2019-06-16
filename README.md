@@ -23,6 +23,6 @@
 
 # ЗАДАЧКИ ДЛЯ ПРОКАЧКИ JAVASCRIPT
 
-[inverted letters](https://github.com/barabas007/inverted-letters)- ПОЛИНДРОМ 
+[inverted letters](https://github.com/barabas007/inverted-letters)- ПАЛИНДРОМ 
 
 
