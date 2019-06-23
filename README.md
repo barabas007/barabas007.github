@@ -25,4 +25,6 @@
 
 [inverted letters](https://github.com/barabas007/inverted-letters)- ПАЛИНДРОМ 
 
+[fizzbuzz](https://github.com/barabas007/fizz_buzz/tree/master) - FIZZBUZZ
+
 
