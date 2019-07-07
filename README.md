@@ -27,4 +27,6 @@
 
 [fizzbuzz](https://github.com/barabas007/fizz_buzz/tree/master) - FIZZBUZZ
 
+[fibonacci_for](https://github.com/barabas007/fibonacci_for/tree/master) - ФИБОНАЧЧИ ЦИКЛОМ
+
 
