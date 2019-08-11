@@ -15,6 +15,8 @@
 
 [_sound](https://github.com/barabas007/_sound) - Эквалайзер в браузере
 
+[_wave](https://github.com/barabas007/_wave/tree/master) - Бегущая волна в браузере
+
 
 # REACT. JS
 [![Edit gracious-cdn-v9dzc](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/gracious-cdn-v9dzc?fontsize=14)
