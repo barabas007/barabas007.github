@@ -35,3 +35,9 @@
 # JAVA 
 
 [intership](https://github.com/barabas007/job4j) - Практика по JAVA
+
+# ТЕСТИРОВАНИЕ НА JAVA
+
+## АВТОМАТИЗАЦИЯ ТЕСТИРОВАНИЯ НА JAVA
+
+[parsing](https://github.com/barabas007/java_test) - Автоматизированный сбор данных из таблицы на Java
