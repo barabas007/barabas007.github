@@ -40,4 +40,4 @@
 
 ## АВТОМАТИЗАЦИЯ ТЕСТИРОВАНИЯ НА JAVA
 
-[parsing](https://github.com/barabas007/java_test) - Автоматизированный сбор данных из таблицы на Java
+[parsing](https://github.com/barabas007/java_test) - Автоматизированный сбор данных из таблицы на Java с  XPath
