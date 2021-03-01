@@ -5,13 +5,15 @@
 
 [Car_parser](https://github.com/barabas007/Car_parser/blob/main/car_shopper.rb) - Parsed html with RUBY - Парсер сайта на RUBY
 
+[my_blog](https://github.com/barabas007/ruby_on_rails_blog) - Блог на Ruby on Rails
+
 [new_blog](https://github.com/barabas007/new_blog) - Блог на Ruby on Rails
 
 [SimpleRails](https://github.com/barabas007/SimpleRails) -Клон Udemy на Ruby on Rails 
 
 [toy_app](https://github.com/barabas007/toy_app) - Ruby on Rails
 
-[rubytable](https://github.com/barabas007/rubytable) - Приложение на Ruby on Rails
+[rubytable](https://github.com/barabas007/rubytable) - Приложение на Ruby on Rails + Покрытие тестами
 
 
 
