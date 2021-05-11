@@ -7,6 +7,8 @@
 
 [Car_parser](https://github.com/barabas007/Car_parser/blob/main/car_shopper.rb) - Parsed html with RUBY - Парсер сайта на RUBY
 
+[React_Ruby_on_Rails](https://github.com/barabas007/react_ruby_on_rails) - Приложение React с помощью Ruby on Rails
+
 [my_blog](https://github.com/barabas007/ruby_on_rails_blog) - Блог на Ruby on Rails
 
 [new_blog](https://github.com/barabas007/new_blog) - Блог на Ruby on Rails
