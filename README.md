@@ -4,6 +4,8 @@
 
 [flutterApp](https://github.com/barabas007/flutterApp) - flutterApp DART && FLUTTER
 
+[static_list_view_flutter](https://github.com/barabas007/static_list_view) - DART && FLUTTER
+
 
 
 #   RUBY on RAILS ( RoR )
